@@ -3,6 +3,12 @@
 
 <!-- Project Description -->
 <p align="center">📸 A Java project for detecting faces in images using OpenCV 🧑🔍</p>
+ 
+<!-- Image -->
+<p align="center">
+ <img src="https://github.com/Fanibhusana/Face-Detection/assets/125716338/566e52fd-f5a8-41c3-9ca1-61b6ae0afd87" alt="Project Screenshot" width="600">
+  <img src="https://github.com/Fanibhusana/Face-Detection/assets/125716338/bc543cd8-9bc0-4967-b959-51883e53d3a9" alt="Project Screenshot" width="600">
+</p>
 <!-- Table of Contents -->
 <h2>Table of Contents</h2>
 
