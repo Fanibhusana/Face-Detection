@@ -1,6 +1,6 @@
 # Face Detection using OpenCV in Java
 
-![Project Image](images/project_image.jpg)
+![Project Image](img.jpg)
 
 This project demonstrates a basic face detection application using OpenCV in Java. It loads an image, detects faces, draws rectangles around them, and saves the resulting image with the detected faces highlighted.
 
