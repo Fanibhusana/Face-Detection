@@ -1,29 +1,31 @@
-# Face Detection using OpenCV in Java
+# Face Detection Project 👤📷
 
-![Project Image](images/project_img.jpg)
+Welcome to the Face Detection project using OpenCV in Java! This project is designed to detect faces in images and highlight them.
 
-This project demonstrates a basic face detection application using OpenCV in Java. It loads an image, detects faces, draws rectangles around them, and saves the resulting image with the detected faces highlighted.
+## 🚀 Features
 
-## Features
+- Load an image.
+- Detect faces using OpenCV.
+- Draw rectangles around detected faces.
+- Save the result as a new image.
 
-- Load an image for face detection.
-- Utilize a pre-trained Haar Cascade classifier for face detection.
-- Draw green rectangles around detected faces in the image.
-- Save the modified image with the detected faces highlighted.
+## 📦 Prerequisites
 
-## Table of Contents
+Before you get started, make sure you have the following installed:
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
+- Java Development Kit (JDK)
+- OpenCV for Java
+- Your favorite Java IDE
 
-## Installation
+## 🛠️ Installation
 
-1. Make sure you have Java Development Kit (JDK) installed.
-2. Download OpenCV for Java from the official OpenCV website and add the JAR file to your project's build path.
-3. Clone this repository to your local machine:
+1. Clone this repository.
+2. Set up OpenCV in your project.
+3. Compile and run the Java code.
 
-   ```sh
+## 📖 Usage
+
+Here's how you can run the face detection program:
+
+```bash
+java -classpath .:path/to/opencv-4.5.2.jar FaceDetection
