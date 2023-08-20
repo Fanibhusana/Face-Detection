@@ -3,7 +3,6 @@
 
 <!-- Project Description -->
 <p align="center">📸 A Java project for detecting faces in images using OpenCV 🧑🔍</p>
-
 <!-- Table of Contents -->
 <h2>Table of Contents</h2>
 
